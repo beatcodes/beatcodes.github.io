@@ -1,0 +1,1 @@
+.blink:after{content:"|";animation:blink 1s infinite step-start}@keyframes blink{50%{opacity:0}}html,body{margin:0;padding:0;overflow-y:auto}
